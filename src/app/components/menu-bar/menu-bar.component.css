@@ -5,6 +5,10 @@
 }
 
 .container__menu-bar > ul > li{
-  margin-right:40px;
+  margin-right:30px;
   list-style: none;
+}
+
+.container__menu-bar > ul > li > a{
+  font-size: 20px;
 }
